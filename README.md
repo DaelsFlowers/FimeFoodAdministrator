@@ -32,10 +32,8 @@ El proceso comienza con el administrador que sube cuidadosamente los detalles de
 
 - **GitHub:** Se utiliza GitHub como plataforma de control de versiones y herramienta de colaboración para la gestión del código y la coordinación efectiva entre el equipo de desarrollo.
 
-## Contribuciones
+## Contribución
 
-¡Agradecemos las contribuciones de la comunidad para mejorar y hacer crecer la aplicación! Si deseas contribuir, consulta nuestras pautas de contribución en [CONTRIBUTING.md](CONTRIBUTING.md).
+¡Apreciamos tu contribución para mejorar y expandir Fimefood Cliente! Sigue el flujo de trabajo de Git y realiza solicitudes de extracción para revisiones.
 
-## Licencia
-
-Este proyecto está bajo la Licencia [MIT](LICENSE) - consulta el archivo LICENSE.md para obtener más detalles.
+**¡Disfruta de una experiencia sin contratiempos en la compra y venta de productos dentro de la comunidad estudiantil con Fimefood Cliente!**
